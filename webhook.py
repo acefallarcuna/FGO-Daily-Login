@@ -65,7 +65,7 @@ def topLogin(data: list) -> None:
                         "inline": True
                     },
                     {
-                        "name": "Ap Max",
+                        "name": "AP Max",
                         "value": f"{login.act_max}",
                         "inline": True
                     }
